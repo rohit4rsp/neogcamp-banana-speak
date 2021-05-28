@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+/* #FCCD04 */
+:root {
+    --primary-color: #FDE047 ;
+    --secondary-color: rgb(0, 0, 0);
+    --tertiary-color: #b8a234;
+}
+
+body {
+    font-family: 'Fredoka One', cursive;
+    margin: 0px;
+    background-image: url("/images/minion-background.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+    padding: 1rem 0rem 1rem 0rem;
+    margin: 0%;
+    font-weight: lighter;
+}
+
+textarea {
+    margin: 3rem auto 3rem auto;
+    display: flex;
+    border-width:2px;  
+    border-style:solid;
+    border-color: black;
+    width: 40vw;
+    height: 10vh;
+    padding: 1rem;
+    font-size: medium;
+    font-family: cursive;
+}
+
+#btn-translate:hover {
+    background-color: var(--tertiary-color);
+}
+
+button {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.65rem 1rem 0.65rem 1.75rem;
+    border: 0rem;
+    border-radius: 0.5rem;
+    display: flex;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+    width: 7rem;
+    font-weight: 700;
+    font-family: cursive;
+}
+
+#txt-output {
+    margin: 3rem auto 3rem auto;
+    border: 2px;
+    border-width:2px;  
+    border-style:solid;
+    width: 40vw;
+    height: 10vh;
+    padding: 1rem;
+    background-color: white;
+    font-weight: lighter;
+    font-family: cursive;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+    padding: 5vh;
+    align-content: center;
+    text-align: center;
+}
+
+.footer #footer-title {
+    margin: 0rem auto 0rem auto;
+    max-width: 600px;
+    font-weight: lighter;
+}
+
+.footer #footer-text {
+    margin: 0rem auto 0rem auto;
+    max-width: 600px;
+    font-weight: lighter;
+}
