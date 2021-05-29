@@ -1,4 +1,4 @@
-<img src="/images/minion_icon.png" align="right" width="160" />
+<img src="https://s.yimg.com/ny/api/res/1.2/WYmIUWk5U3ELBqRdkKdPFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUzOS43OTIzODc1NDMyNTI2/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-03/56bb7aa0-6a95-11ea-9cd7-6b04cf075a28" align="right" width="160" />
 
 # Minion Translator App
 
